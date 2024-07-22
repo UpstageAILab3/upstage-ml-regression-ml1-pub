@@ -2,16 +2,15 @@
 # House Price Prediction | 아파트 실거래가 예측
 ## Team
 
-| ![정인웅]() | ![이범희]() | ![안수민]() | ![진수훈]() |
+| <img src="https://drive.google.com/uc?export=view&id=1LHSq2m119E8Vc590kM6PCwBF9quxjY4R" alt="정인웅" width="150" height="100"> | <img src="https://drive.google.com/uc?export=view&id=1Fg7LNgBWTcaBBXEaVLDwI73o6nklBApt" alt="이범희" width="150" height="100"> | <img src="https://drive.google.com/uc?export=view&id=1G2GLuzvsoSigbdlHFneNkNdUCnRss_Z3" alt="안수민" width="150" height="100"> | <img src="https://drive.google.com/uc?export=view&id=1rfLaDJocTPO2c0ctPnCOebACb39Uz3f2" alt="진수훈" width="150" height="100"> |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [정인웅](https://github.com/Messengerwoong)             |            [이범희](hhttps://github.com/tmttd)             |            [안수민](https://github.com/soomnia)             |            [진수훈](https://github.com/huniii32)             |
-|                            팀장 <br>   역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [정인웅](https://github.com/Messengerwoong)             |            [이범희](https://github.com/tmttd)             |            [안수민](https://github.com/soomnia)             |            [진수훈](https://github.com/huniii32)             |
+| - Feature Selection <br>  - Hyperparameter Tuning <br> - Experiments with Ensemble & Deep Learning <br> | - Team Coordination <br> - Data Splitting <br> - Feature Engineering | - Data Preprocessing <br> - Feature Engineering | - Data Preprocessing <br> - Feature Selection <br> - Data Splitting <br> - Overfitting Prevention |
 
 ## 1. Competiton Info
 
 ### Overview
-
-- 서울시 아파트 실거래가 매매 데이터를 기반으로 아파트 가격을 예측하는 대회
+- [서울시 아파트 실거래가 매매 데이터를 기반으로 아파트 가격을 예측하는 대회](https://stages.ai/competitions/312/overview/description)
 - `#Upstage_AI_Lab_3기` `#비공개대회`
 
 ### Timeline
@@ -30,7 +29,7 @@
 
 - 
 
-## 3. Data descrption
+## 3. Data description
 
 ### Dataset overview
 추가된 Feature
@@ -44,7 +43,7 @@
 
 ### EDA
 
-- _Describe your EDA process and step-by-step conclusion_
+- 
 
 ### Feature engineering
 - 이전_{n}번째_거래가격<br>
@@ -55,13 +54,14 @@
 
 ## 4. Modeling
 
-### Model descrition
+### Model description
 
-- Catboost
+- Catboost Regressor
+- K-Fold Cross-Validation
 
 ### Modeling Process
 
-- _Write model train and test process with capture_
+- 
 
 ## 5. Result
 
@@ -72,8 +72,11 @@
 > PRIVATE
 ![PRIVATE](/docs/img/leader_private.PNG)
 
+> BEST SCORE <br>
+![Best](/docs/img/leader_best.PNG)
+
 ### Presentation
-[💾 PDF]()
+[💾 PDF](/docs/pdf/[패스트캠퍼스]%20Upstage%20AI%20Lab%203기_ML_competition_발표자료_1조.pdf)
 
 ## etc
 ### Reference
