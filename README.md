@@ -2,9 +2,9 @@
 # House Price Prediction | 아파트 실거래가 예측
 ## Team
 
-| ![정인웅]() | ![이범희]() | ![안수민]() | ![정수훈]() |
+| ![정인웅]() | ![이범희]() | ![안수민]() | ![진수훈]() |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [정인웅](https://github.com/Messengerwoong)             |            [이범희](hhttps://github.com/tmttd)             |            [안수민](https://github.com/soomnia)             |            [정수훈](https://github.com/huniii32)             |
+|            [정인웅](https://github.com/Messengerwoong)             |            [이범희](hhttps://github.com/tmttd)             |            [안수민](https://github.com/soomnia)             |            [진수훈](https://github.com/huniii32)             |
 |                            팀장 <br>   역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 1. Competiton Info
